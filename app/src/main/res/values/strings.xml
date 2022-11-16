@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SandwitchKiosk</string>
+    <string name="hello_kiosk">반갑습니다 샌드위치 키오스크입니다.</string>
 </resources>
