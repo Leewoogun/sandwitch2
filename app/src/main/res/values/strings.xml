@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SandwitchKiosk</string>
     <string name="hello_kiosk">반갑습니다 샌드위치 키오스크입니다.</string>
+    <string name="StrTable">좌석을 선택해주세요</string>
+    <string name="table_num1">테이블1</string>
+    <string name="table_num2">테이블2</string>
+    <string name="table_num3">테이블3</string>
 </resources>
